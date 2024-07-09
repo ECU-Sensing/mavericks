@@ -1,0 +1,16 @@
+OPEN NEW TERMINAL:
+
+sudo python3 -m FreeTAKServer.controllers.services.FTS
+
+OPEN NEW TERMINAL:
+
+cd /usr/local/lib/python3.9/dist-packages/FreeTAKServer-UI
+sudo python3 run.py
+
+OPEN NEW TERMINAL:
+
+sudo node-red-start
+
+Open Browser and enter in URL (Login admin/password):
+
+http://localhost:5000/login
