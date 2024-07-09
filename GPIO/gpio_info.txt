@@ -1,0 +1,1 @@
+To write to GPIO pins using Python, you'll first need to install the RPi.GPIO library. This library allows you to control the GPIO pins on a Raspberry Pi.

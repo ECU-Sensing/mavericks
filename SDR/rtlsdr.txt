@@ -1,0 +1,5 @@
+RTL-SDR stands for "Realtek Software-Defined Radio," which refers to a family of cheap, USB-based radio receivers that use Realtek RTL2832U chips. These devices can be used to receive and decode a wide range of radio signals, including FM radio, AM radio, DAB digital radio, and various types of digital signals.
+
+The RTL-SDR devices are popular among hobbyists, hackers, and radio enthusiasts due to their low cost and ease of use. They can be used with various open-source software tools and libraries to perform radio spectrum analysis, signal decoding, and other radio-related tasks.
+
+The RTL-SDR devices are not designed to be high-performance radio receivers and have some limitations, such as limited frequency range, lower sensitivity, and more noise compared to more expensive radio receivers. However, they are still capable of performing many radio-related tasks and are an excellent starting point for beginners who want to learn about radio technology and experimentation.
